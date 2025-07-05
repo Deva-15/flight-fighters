@@ -58,4 +58,5 @@ FlightFinders/
 If you'd like, I can help generate a full `README.md` file for your GitHub repo. Just let me know what language and features you used (e.g., Java, console-based, supports booking and cancellation, etc.).
 
 **output**
-![Image](https://github.com/user-attachments/assets/d0834a2b-149c-41ff-ab7d-ae16670a196f)
+![Image](https://github.com/user-attachments/assets/fbf94377-d9e7-4341-b10a-166251672c19)
+
