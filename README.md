@@ -59,3 +59,9 @@ If you'd like, I can help generate a full `README.md` file for your GitHub repo.
 
 ** output **
 ![Image](https://github.com/user-attachments/assets/fbf94377-d9e7-4341-b10a-166251672c19)
+
+** DEMO VIDEO **
+
+https://github.com/user-attachments/assets/7bdf2e05-cd18-4663-9363-b1a2bd0ff250
+
+
