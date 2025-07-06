@@ -12,6 +12,12 @@
 
 # DESCRIPTION OF FLIGHT FINDERS
 
+# DOCUMENTATION
+
+(https://github.com/user-attachments/files/21083971/flight.booking.fligt.finders.docx)
+
+
+
 ## ✈️ Flight Finders – Internship Project
 
 **Flight Finders** is a console-based (or GUI-based, depending on your version) application developed as part of my internship project. The program is designed to simulate a basic flight booking system where users can **search for available flights**, **filter based on preferences**, and **book tickets** with ease.
