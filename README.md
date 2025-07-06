@@ -10,12 +10,11 @@
 
 **BATCH DURATION** : 19th MAY 2025 to 30th JUNE 2025
 
-# DESCRIPTION OF FLIGHT FINDERS
-
 # DOCUMENTATION
 
 (https://github.com/user-attachments/files/21083971/flight.booking.fligt.finders.docx)
 
+# DESCRIPTION OF FLIGHT FINDERS
 
 
 ## ✈️ Flight Finders – Internship Project
